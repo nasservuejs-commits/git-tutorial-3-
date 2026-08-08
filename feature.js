@@ -1,1 +1,1 @@
-console.log('conflict2')
+console.log('conflict 1')
